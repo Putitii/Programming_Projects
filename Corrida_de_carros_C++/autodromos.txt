@@ -1,0 +1,3 @@
+7 10 SuperRace
+5 80 GrandTurno
+4 100 SuperLong

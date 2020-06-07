@@ -1,0 +1,6 @@
+9 15 mazda rx7
+12 16 ford focus
+8 18 mazda mx5
+10 20 kia ceed
+7 10 bmw 520i
+10 8 ford f150
